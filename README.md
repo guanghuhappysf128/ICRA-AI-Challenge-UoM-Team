@@ -13,3 +13,15 @@ Teams purchase hardware from RoboMaster and code their own autonomous systems. A
 ## About the Team
 
 Team Ausdroid has participanted in this Challenge twice, in 2018 and in 2019. The latest appearance was on [ICRA2019](https://www.icra2019.org/competitions/dji-robomaster-ai-challenge), Montreal, Canada. The team has successfully competed in three matches, and managed to win one of them.
+
+## News
+
+## Computing Projects
+
+## People
+
+## Contact us
+
+
+
+
